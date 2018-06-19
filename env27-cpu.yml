@@ -1,0 +1,104 @@
+name: dl_gpu
+channels:
+- tensorflow
+- pytorch
+- defaults
+dependencies:
+- scipy
+- numpy
+- pillow
+- jpeg
+- spacy
+- zlib
+- freetype
+- libtiff
+- bleach
+- certifi
+- cffi
+- cycler
+- decorator
+- entrypoints
+- expat
+- html5lib
+- icu
+- ipykernel
+- ipython
+- ipython_genutils
+- ipywidgets
+- jedi
+- jinja2
+- jsonschema
+- jupyter
+- jupyter_client
+- jupyter_console
+- jupyter_core
+- libiconv
+- libpng
+- libsodium
+- libxml2
+- markupsafe
+- matplotlib
+- mistune
+- mkl
+- nbconvert
+- nbformat
+- notebook
+- numpy
+- olefile
+- openssl
+- pandas
+- pandocfilters
+- path.py
+- patsy
+- pcre
+- pexpect
+- pickleshare
+- pillow
+- pip
+- prompt_toolkit
+- pycparser
+- pygments
+- pyparsing
+- pyqt
+- python==2.7.15
+- python-dateutil
+- pytz
+- pyzmq
+- qt
+- qtconsole
+- scipy
+- seaborn
+- setuptools
+- simplegeneric
+- sip
+- six
+- sqlite
+- statsmodels
+- testpath
+- tk
+- tornado<5
+- tqdm
+- traitlets
+- wcwidth
+- wheel
+- widgetsnbextension
+- xz
+- zeromq
+- pytorch>=0.2
+- tensorflow==1.8
+- keras==2.1.6
+- bcolz
+- prompt_toolkit
+- pip:
+  - torchvision>=0.1.9
+  - opencv-python
+  - isoweek
+  - pandas_summary
+  - torchtext
+  - graphviz
+  - sklearn_pandas
+  - feather-format
+  - jupyter_contrib_nbextensions
+  - plotnine
+  - ipywidgets
+  - jupyter_contrib_nbextensions
