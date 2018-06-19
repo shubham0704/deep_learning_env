@@ -1,4 +1,4 @@
-name: dl_gpu
+name: dl
 channels:
 - tensorflow
 - pytorch
