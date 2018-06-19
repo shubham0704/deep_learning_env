@@ -10,7 +10,7 @@ A set of conda env files to start with your data science project
 3. Set up Python environment: ```conda env update -f NAME_OF_ENV_YML```
 4. Activate Python environment: ```conda activate dl```
    
-If '4.' fails, use instead: ```source activate dl_env```
+If '4.' fails, use instead: ```source activate dl```
 
 ## To update
 1. Update code: ```git pull```
