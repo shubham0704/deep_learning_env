@@ -2,10 +2,7 @@
 A set of conda env files to start with your data science project
 
 ## Prerequisites
-[Anaconda](https://conda.io/docs/user-guide/install/index.html#)
-
-
-+ (Anaconda)[https://conda.io/docs/user-guide/install/index.html#]
++ [Anaconda](https://conda.io/docs/user-guide/install/index.html#)
 + to install latest version as of july 2018 do ```sh install_anaconda.sh```
 
 ## Normal installation
