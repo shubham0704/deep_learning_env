@@ -1,4 +1,4 @@
-name: dl
+name: dl_27_cpu
 channels:
 - tensorflow
 - pytorch

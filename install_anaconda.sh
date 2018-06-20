@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # Go to home directory
 cd ~
 
@@ -9,6 +10,6 @@ rm Anaconda3-5.2.0-Linux-x86_64.sh
 echo 'export PATH="~/anaconda/bin:$PATH"' >> ~/.bashrc 
 
 # Refresh basically
-source .bashrc
+source ~/.bashrc
 
 conda update conda

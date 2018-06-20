@@ -1,4 +1,4 @@
-name: dl
+name: dl_36_cpu
 channels:
 - tensorflow
 - pytorch
